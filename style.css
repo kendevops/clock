@@ -15,8 +15,6 @@ body {
 
 .time {
   border: 2px solid;
-  height: 100%;
-  padding: 10%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -24,6 +22,5 @@ body {
 }
 
 .nij {
-  padding: 10%;
-  border: 2px solid;
+  padding: 7%;
 }
