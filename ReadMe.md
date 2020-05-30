@@ -2,4 +2,4 @@
 
 An Analog and Digital Clock representing 3 different countries i am working with
 
-Click [here]() to see the demo
+Click [here](http://kendevops.github.io/clock/) to see the demo
